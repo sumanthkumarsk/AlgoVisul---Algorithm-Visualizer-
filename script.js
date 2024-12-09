@@ -17,7 +17,7 @@ document.getElementById("sorting-btn").addEventListener("click", function() {
   window.location.href = "Sorting/Sort.html";  // Replace with the actual URL you want to go to
 });
 document.getElementById("traversing-btn").addEventListener("click", function() {
-  window.location.href = "Graph Traversal Algorithms/graph.html";  // Replace with the actual URL you want to go to
+  window.location.href = "Graph/graph.html";  // Replace with the actual URL you want to go to
 });
 document.getElementById("Spanning-btn").addEventListener("click", function() {
   window.location.href = "MST Algorithms/Mst.html";  // Replace with the actual URL you want to go to
